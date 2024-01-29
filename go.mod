@@ -1,4 +1,4 @@
-module merkle-patrica-trie
+module github.com/kubasiemion/patrie
 
 go 1.18
 
